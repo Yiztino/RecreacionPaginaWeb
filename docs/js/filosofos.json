@@ -1,0 +1,30 @@
+{
+    "filosofos": [
+      {
+        "nombre": "Zenon de citio",
+        "descripcion": "Zenon de citio fue el que se conoce como fundador de la filosofía estoica al ir al Stoa Poikile, que literalmente es una puerta en grecia donde se reunía para exponer sus ideas",
+        "imagen": "./img/zenon.jpg"
+      },
+      {
+        "nombre": "Marco Aurelo",
+        "descripcion": "Marco Aurelio es conocido por haber sido un emperador y haber demostrado que las adversidades no nos pueden hacer desistir",
+        "imagen": "./img/marcoAurelioFrase.jpg"
+      },
+      {
+        "nombre": "Crisipo",
+        "descripcion": "Uno de los filósofos estoicos conocido por morir de risa y ser el segundo fundador del estoicismo",
+        "imagen": "./img/crisipo.jpg"
+      },
+      {
+        "nombre": "Epicteto",
+        "descripcion": "Epicteto se destaca por haber sido esclavo gran parte de su vida y en su filosofía denotar como él era libre a pesar de tener cadenas ",
+        "imagen": "./img/epictetoFrase.jpg"
+      },
+      {
+        "nombre": "Lucio Anneo Séneca",
+        "descripcion": "Séneca es considerado uno de los filósofos estoicos más prácticos, congeniando con ideas de los cínicos y los epicureos",
+        "imagen": "./img/seneca.jpg"
+      }
+    ]
+  }
+  

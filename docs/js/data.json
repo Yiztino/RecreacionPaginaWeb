@@ -1,0 +1,11 @@
+{
+  "nombre": "Luis",
+  "edad": 19,
+  "profesor": false,
+  "alumno": true,
+  "contacto": {
+    "correo": "luislemusP55@gmail.com",
+    "youtube": "@yiztinol",
+    "movil": "5561591466"
+  }
+}
