@@ -3,6 +3,7 @@ body {
   color: #eee;
 }
 
+/*
 .bg-banner-2 {
   background-image: url(https://amerike.edu.mx/wp-content/uploads/2023/09/banner-pagina-web2.jpg);
   background-repeat: no-repeat;
@@ -14,4 +15,50 @@ body {
   background-image: url(https://amerike.edu.mx/wp-content/uploads/2023/05/8.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}*/
+
+.bg-banner-black{
+  background-color: #142429;
+  /*height: 100vh;*/
+  color: white;
+  display: flex;
+  padding: 2rem;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.navbar-custom {
+  justify-content: center;
+  height: 80px;
+  background-color: #020c1b;
+}
+.navbar-brand-custom {
+  position: absolute;
+  left: 20px;  
+}
+.nav-link {
+  color: #ffffff !important; 
+  font-weight: bold;  
+  margin-right: 20px; 
+}
+
+.first-image{
+  width: 615px !important;
+  height: auto !important;
+}
+.bg-color-transparent{
+  background-color: transparent;
+}
+
+.abajo-breadcrumbs{
+  margin-bottom: 0;
+  font-size: 14px;
+  margin-top: 0;
+
+}
+
+.text-align-center{
+  text-align: center;
 }
